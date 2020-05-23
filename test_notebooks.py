@@ -5,7 +5,7 @@ from pathlib import Path
 
 def test_version():
     import pydra
-    print("pydra version: ", pydra.__version__)
+    print("test pydra version: ", pydra.__version__)
 
 
 if __name__ == '__main__':
